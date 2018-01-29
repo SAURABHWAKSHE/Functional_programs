@@ -45,5 +45,5 @@ public class Gambler
 	     System.out.println("Percentage of win is: " + winPerc);
 	   	 lossPerc = (100-winPerc);
 	     System.out.println("Percentage of loss is: " +lossPerc);
-	   }
-	}
+	 }
+}
