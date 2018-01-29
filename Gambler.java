@@ -27,7 +27,7 @@ public class Gambler
 	
 	        for(int i = 0;i < bet2;i++)
 	        {
-	        	double cash = 100;
+	        	double cash = sTake2;
 	            while (cash > 0 && cash < goalTarget2)
 	            {
 	          
