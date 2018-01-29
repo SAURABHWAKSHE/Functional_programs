@@ -1,15 +1,3 @@
-
-/******************************************************************************
-  *  Compilation:  javac -d bin com/bridgelabz/util/Quadratic.java
-  *  Execution:    java -cp bin com.bridgelabz.util.Quadratic
-  *  
-  *  Purpose:program to find roots of quadratic equation
-  *
-  *  @author  Saurabh Wakshe
-  *  @version 1.8
-  *  @since   22-01-2018
-  *
- ******************************************************************************/
 package com.bridgelabz.programs;
 import java.util.Scanner;
 
@@ -53,4 +41,3 @@ public class Quadratic
 	}
 
 }
-

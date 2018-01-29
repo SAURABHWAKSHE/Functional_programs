@@ -1,14 +1,3 @@
-/******************************************************************************
-  *  Compilation:  javac -d bin com/bridgelabz/util/HarmonicNum.java
-  *  Execution:    java -cp bin com.bridgelabz.util.HarmonicNum
-  *  
-  *  Purpose:program to accept a num N from user and find Nth harmonic value 
-  *
-  *  @author  Saurabh Wakshe
-  *  @version 1.8
-  *  @since   22-01-2018
-  *
- ******************************************************************************/
 package com.bridgelabz.programs;
 import java.util.Scanner;
 
@@ -33,4 +22,3 @@ public class HarmonicNum
 		System.out.println(sum);
 	}
 }
-

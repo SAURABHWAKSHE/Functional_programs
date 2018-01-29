@@ -1,14 +1,3 @@
-/******************************************************************************
-  *  Compilation:  javac -d bin com/bridgelabz/util/WindChill.java
-  *  Execution:    java -cp bin com.bridgelabz.util.WindChill
-  *  
-  *  Purpose:program to find Effective Temperature
-  *
-  *  @author  Saurabh Wakshe
-  *  @version 1.8
-  *  @since   22-01-2018
-  *
- ******************************************************************************/
 package com.bridgelabz.programs;
 
 public class WindChill

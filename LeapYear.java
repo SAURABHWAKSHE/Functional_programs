@@ -1,14 +1,3 @@
-/******************************************************************************
-  *  Compilation:  javac -d bin com/bridgelabz/util/LeapYear.java
-  *  Execution:    java -cp bin com.bridgelabz.util.LeapYear
-  *  
-  *  Purpose:program to accept a year from user and find whether it is leap year or not
-  *
-  *  @author  Saurabh Wakshe
-  *  @version 1.8
-  *  @since   22-01-2018
-  *
- ******************************************************************************/
 package com.bridgelabz.programs;
 import java.util.Scanner;
 public class LeapYear 
@@ -20,7 +9,11 @@ public class LeapYear
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter The Year:");
 		int lYear = sc.nextInt();
-		boolean islYear = LeapYear(lYear);
+		boolean islYear=false;
+		if(Integer.toString(lYear).length()==4)
+		{
+			islYear = LeapYear(lYear);
+		}
 		System.out.println(islYear);
 	}
 	static boolean LeapYear(int year)
@@ -35,4 +28,3 @@ public class LeapYear
 		
 	}
 }
-

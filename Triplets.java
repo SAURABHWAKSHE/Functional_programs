@@ -1,14 +1,3 @@
-/******************************************************************************
-  *  Compilation:  javac -d bin com/bridgelabz/util/Triplets.java
-  *  Execution:    java -cp bin com.bridgelabz.util.Triplets
-  *  
-  *  Purpose:program to find Triplets from array
-  *
-  *  @author  Saurabh Wakshe
-  *  @version 1.8
-  *  @since   22-01-2018
-  *
- ******************************************************************************/
 package com.bridgelabz.programs;
 import java.util.Scanner;
 
@@ -50,4 +39,3 @@ public class Triplets
 	}
 
 }
-

@@ -1,14 +1,3 @@
-/******************************************************************************
-  *  Compilation:  javac -d bin com/bridgelabz/util/Distance.java
-  *  Execution:    java -cp bin com.bridgelabz.util.Distance
-  *  
-  *  Purpose:program to find Euclidean distance
-  *
-  *  @author  Saurabh Wakshe
-  *  @version 1.8
-  *  @since   22-01-2018
-  *
- ******************************************************************************/
 package com.bridgelabz.programs;
 
 public class Distance 
@@ -26,4 +15,3 @@ public class Distance
 	}
 
 }
-

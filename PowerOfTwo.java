@@ -1,14 +1,3 @@
-/******************************************************************************
-  *  Compilation:  javac -d bin com/bridgelabz/util/PowerOfTwo.java
-  *  Execution:    java -cp bin com.bridgelabz.util.PowerOfTwo
-  *  
-  *  Purpose:program to accept a num N from user and print the power of 2 upto N
-  *
-  *  @author  Saurabh Wakshe
-  *  @version 1.8
-  *  @since   22-01-2018
-  *
- ******************************************************************************/
 package com.bridgelabz.programs;
 //import java.util.Scanner;
 
@@ -41,4 +30,3 @@ public class PowerOfTwo
 	}
 
 }
-

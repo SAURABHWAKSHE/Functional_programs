@@ -1,14 +1,3 @@
-/******************************************************************************
-  *  Compilation:  javac -d bin com/bridgelabz/util/FlipCoin.java
-  *  Execution:    java -cp bin com.bridgelabz.util.FlipCoin
-  *  
-  *  Purpose:program to find head and tail percentage by fliping a coin n times.
-  *
-  *  @author  Saurabh Wakshe
-  *  @version 1.8
-  *  @since   22-01-2018
-  *
- ******************************************************************************/
 package com.bridgelabz.programs;
 import java.util.Scanner;
 
@@ -35,4 +24,3 @@ public class FlipCoin
 		System.out.println("Tail Percentage:"+(nTail*100)/nTime);
 	}
 }
-
